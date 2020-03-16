@@ -10,7 +10,7 @@
     
 ### Objetivos do Estudo:
     Criar um Site Informativo com as dados obtidos desta pesquisa, que seja capaz de gerar facilmente um
-    documento que pode ser lido por qualquer pessoa. Gerando um arquivo PDF com a evolução do COVID-19 ou
+    documento que pode ser lido por qualquer pessoa. Gerando um arquivo PDF com a evolução do COVID-19 e
     disponibilizando os Datasets usados.
     
    
