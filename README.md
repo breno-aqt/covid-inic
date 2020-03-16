@@ -19,7 +19,7 @@
   - Who is conducting the research?
     - [Breno Marques](https://www.linkedin.com/in/breno-marques-a86136114/)
     - [Oscar Maia](https://www.linkedin.com/in/oscar-maia-23a155195/)
-    - [Kallel 'Biersack'](https://www.linkedin.com/in/kallel-vieira-57b343190/)
+    - [Kallel Vieira](https://www.linkedin.com/in/kallel-vieira-57b343190/)
     - [Armanda Maria (Professora Supervisora)](https://www.linkedin.com/in/armanda-maria-56528b113/)
     - [Pedro Crispim (Voluntário)](https://www.linkedin.com/in/rycky5/)
     
