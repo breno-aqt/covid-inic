@@ -1,5 +1,39 @@
 <!DOCTYPE html>
-<head>    
+<head>
+    <title>COVID-19 - Analise</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {margin:0;}
+
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+            position: fixed;
+            top: 0;
+            width: 100%;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+        .navbar a:hover {
+            background: #ddd;
+            color: black;
+        }
+
+        .main {
+            padding: 16px;
+            margin-top: 30px;
+            height: 1500px; /* Used in this example to enable scrolling */
+        }
+    </style>   
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     
         <script>
@@ -33,7 +67,14 @@
             </style>
         
 </head>
-<body>    
+<body>
+    <div class="navbar">
+        <a href="#confirmados">Confirmados</a>
+        <a href="#obitos">Obitos</a>
+        <a href="#recuperados">Recuperados</a>
+        <a href="#dados">Dados</a>
+        <a href="#faleconosco">Contato</a>
+    </div>    
     
             <div class="folium-map" id="map_ceb04d33179743c9955bdd5870960047" ></div>
         
@@ -43,7 +84,7 @@
             var map_ceb04d33179743c9955bdd5870960047 = L.map(
                 "map_ceb04d33179743c9955bdd5870960047",
                 {
-                    center: [15.0, 101.0],
+                    center: [15.0, 15.0],
                     crs: L.CRS.EPSG3857,
                     zoom: 1.3,
                     zoomControl: true,
