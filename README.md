@@ -1,5 +1,5 @@
 # Covid-inic (Estudo/Research)
-### Estudos do COVID-19 pela UNINASSAU.
+### Estudos do COVID-19 pela [UNINASSAU](https://www.uninassau.edu.br/institucional/nacional).
   - Somos alunos da UNINASSAU-PE do Curso de C.Computação.
   - Os responsaveis por esse projeto são:
     - [Breno Marques](https://www.linkedin.com/in/breno-marques-a86136114/)
@@ -14,7 +14,7 @@
    
 -------------------------------------------------------------------------------------------------------------------------------
 
-### COVID-19 - Scientific research sponsored by UNINASSAU.
+### COVID-19 - Scientific research sponsored by [UNINASSAU](https://www.uninassau.edu.br/institucional/nacional).
   - We are students of Computer Science on UNINASSAU-PE
   - Who is conducting the research?
     - [Breno Marques](https://www.linkedin.com/in/breno-marques-a86136114/)
