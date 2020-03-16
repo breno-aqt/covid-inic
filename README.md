@@ -17,11 +17,11 @@
 ### COVID-19 - Scientific research sponsored by UNINASSAU.
   - We are students of Computer Science on UNINASSAU-PE
   - Who is conducting the research?
-   - [Breno Marques](https://www.linkedin.com/in/breno-marques-a86136114/)
-   - [Oscar Maia](https://www.linkedin.com/in/oscar-maia-23a155195/)
-   - [Kallel 'Biersack'](https://www.linkedin.com/in/kallel-vieira-57b343190/)
-   - [Armanda Maria (Professora Supervisora)](https://www.linkedin.com/in/armanda-maria-56528b113/)
-   - [Pedro Crispim (Voluntário)](https://www.linkedin.com/in/rycky5/)
+    - [Breno Marques](https://www.linkedin.com/in/breno-marques-a86136114/)
+    - [Oscar Maia](https://www.linkedin.com/in/oscar-maia-23a155195/)
+    - [Kallel 'Biersack'](https://www.linkedin.com/in/kallel-vieira-57b343190/)
+    - [Armanda Maria (Professora Supervisora)](https://www.linkedin.com/in/armanda-maria-56528b113/)
+    - [Pedro Crispim (Voluntário)](https://www.linkedin.com/in/rycky5/)
     
 ### What is the objective?
     - We are planning to create a Website to display all the research, with graphs and maps showing the propagation of COVID-19 in some regions. We are also expecting to provide all datasets used here and create a dowloadable content using some PDF`s.
