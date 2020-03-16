@@ -1,4 +1,4 @@
-# Covid-inic
+# Covid-inic (Estudo/Research)
 ### Estudos do COVID-19 pela UNINASSAU.
   - Somos alunos da UNINASSAU-PE do Curso de C.Computação.
   - Os responsaveis por esse projeto são:
