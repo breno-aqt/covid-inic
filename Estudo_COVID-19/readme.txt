@@ -5,7 +5,7 @@
 	│   ├ Doc: Todos os documentos ficam aqui: 	
 	│   │	Contrato, anotações, propostas, leiame [configurações para que o sistema funcione corretamente].
 	│   │
-	│   ├ Layout: É a pasta que contém o layout cru em html, pronto para ser jogado no código. Tem os arquivos de edição originais 				│   │	(photoshop, etc).
+	│   ├ Layout: É a pasta que contém o layout cru em html, pronto para ser jogado no código. Tem os arquivos de edição originais 		│   │	(photoshop, etc).
 	│   │
 	│   ├  assets: onde fica o principal. Códigos, layout montado, bibliotecas, galeria, fontes, etc.
 	│   │
